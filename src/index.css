@@ -8,7 +8,7 @@ main {
 	--primary: #499167;
 	--secondary: #2E282A;
 	--tertiary: #f0f2a6;
-	--quaternary: #39a9db;
+	--quaternary: #cadce3;
 	--quinary: #bfd7ea;
 	--light: #bfd7ea;
 	--dark: #353831;
@@ -255,7 +255,7 @@ textarea {
 }
 
 .modalBackdrop {
-	background: rgba(0, 0, 0, .65);
+	background: rgba(16, 16, 16, 0.65);
 	bottom: 0;
 	left: 0;
 	overflow: auto;
