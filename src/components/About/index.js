@@ -14,12 +14,10 @@ function About() {
 				/>
 			</div>
 			<div>
-				<p> 
-                I am in the process of completing my full stack wep development course at UWA.
-                I have many new skills in both front end and back end developing. 
-                I have learnt numerous technologies,
-                including JavaScript, Node, SQL, MongoDB, and React.
-                </p>
+				I am in the process of completing my full stack web development course at UWA.<br></br>
+					I have many new skills in both front end and back end developing.<br></br>			         
+				 I have learnt numerous technologies,including JavaScript, Node, SQL, MongoDB, and React.<br></br>
+                
                 </div>
 		</section>
 	);
