@@ -7,16 +7,16 @@ function Portfolio() {
 		name:'Password Generator',
 		description:'This is a password generator App where you decide the type of password you need and the app will automatilly create it.',
 		Image: '../src/assets/images/generated.png',
-		technologies: ['',
-		'',
-	],
+		technologies: ['','',],
+	
 		github:'https://github.com/Vittorioemot/password-generator',
 			
 	},
 	{
-			name:'',
-		description:'',
-		Image: [' '
+		name:'',
+		description:
+		'',
+		Image: [' ',
 	],
 		github:'',
 		deployed: '',	
